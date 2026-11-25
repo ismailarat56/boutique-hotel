@@ -1,0 +1,8 @@
+{
+  "name": "Iresine Hotel Landing Page",
+  "description": "A modern, warm, and luxurious landing page for Iresine Hotel, inspired by Mediterranean aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
